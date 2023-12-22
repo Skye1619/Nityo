@@ -5,6 +5,7 @@ Simple implementation of CRUD application, MVC framework and ajax request using 
 ## Technology Used
 
 FrontEnd: React+Vite, React Bootstrap
+
 Backend: Laravel, MySql
 
 ## Installation
